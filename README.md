@@ -9,8 +9,13 @@ This is a website for Horiseon. Here you can find what Horiseon specializes is s
 
 
 ## Visuals
+<<<<<<< HEAD
 ![Two images of Horiseon Website](/Develop/assets/images/Horiseon1.png)
 ![Two images of Horiseon Website](/Develop/assets/images/Horiseon2.png)
+=======
+![Two images of Horiseon Website](/Challenge1Reiner/Develop/assets/images/Horiseon1.png)
+![Two images of Horiseon Website](/Challenge1Reiner/Develop/assets/images/Horiseon2.png)
+>>>>>>> 2a7d8d0ee5d659146d6f3ca8e23603d03c56aca0
 
 ## Installation
 This website is created using HTML5 and CSS.
