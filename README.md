@@ -9,8 +9,8 @@ This is a website for Horiseon. Here you can find what Horiseon specializes is s
 
 
 ## Visuals
-![Two images of Horiseon Website](/urban-octo-telegram/Develop/assets/images/Horiseon1.png)
-![Two images of Horiseon Website](/urban-octo-telegram/Develop/assets/images/Horiseon2.png)
+![Two images of Horiseon Website](/Challenge1Reiner/Develop/assets/images/Horiseon1.png)
+![Two images of Horiseon Website](/Challenge1Reiner/Develop/assets/images/Horiseon2.png)
 
 ## Installation
 This website is created using HTML5 and CSS.
